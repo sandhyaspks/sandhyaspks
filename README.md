@@ -33,35 +33,3 @@ class Sandhya:
     mindset    = "Builder first. Learner always."
 
 
-
-
-
-![Sandhya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sandhyaspks&show_icons=true&theme=radical)
-
----
-
-## 🔥 Streak Stats
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=sandhyaspks&theme=radical)
-
----
-
-## 📊 Top Languages
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sandhyaspks&layout=compact&theme=radical)
-
----
-
-## 📅 Contribution Graph
-
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=sandhyaspks&theme=react-dark)
-
----
-
-## 💡 Quote
-
-> “Code. Learn. Build. Repeat.” 🚀
-
----
-
-⭐ *Feel free to check out my repositories and connect with me!*
