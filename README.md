@@ -1,54 +1,144 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Sandhya%20S&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%7C%20Full%20Stack%20•%20ML%20•%20Backend&descSize=17&descAlignY=58&descColor=c9d1d9&animation=fadeIn"/>
-</p>
+# 👋 Hi, I'm Sandhya S
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Building+real-world+projects+🚀;Frontend+→+Backend+→+ML+Integration;ECE+Student+%7C+Aspiring+Software+Engineer;Focused+on+DSA+%26+System+Design+🔥" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/sandhyaspks">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/sandhya-s-8640452a6/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:sandhyapks19@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
+🎓 B.E ECE @ Sri Eshwar College of Engineering (2023–2027)  
+💡 Passionate about Full Stack Development, Machine Learning & Problem Solving  
+🚀 500+ LeetCode problems solved | MERN Stack Developer  
 
 ---
 
-## 👩‍💻 About Me
+## 🔗 Connect with Me
+- 📧 Email: sandhyapks19@gmail.com  
+- 💼 LinkedIn: [Your LinkedIn Link]  
+- 💻 GitHub: [Your GitHub Link]  
 
-```python
-class Sandhya:
-    def _init_(self):
-        self.name        = "Sandhya S"
-        self.role        = "Aspiring Software Engineer 🚀"
-        self.degree      = "B.E Electronics & Communication Engineering"
-        self.college     = "Sri Eshwar College of Engineering"
-       
+---
 
-        self.focus = [
-            "Full Stack Development",
-            "Backend Systems",
-            "Real-Time Applications"
-        ]
+## 🛠️ Tech Stack
 
-        self.tech_stack = {
-            "Languages": ["Java", "Python", "C"],
-            "Frontend": ["React", "HTML", "CSS", "JavaScript"],
-            "Backend": ["Node.js", "Express", "Spring Boot", "FastAPI"],
-            "Database": ["MySQL", "MongoDB", "PostgreSQL"]
-        }
+### 💻 Programming
+- Java  
+- C  
 
-        self.learning = [
-            "DSA (Java)",
-            "System Design",
-            "Backend Architecture"
-        ]
+### 🌐 Web Development
+- HTML | CSS | JavaScript  
+- React.js  
+- Node.js | Express.js  
+- MERN Stack  
+- Spring Boot  
 
-        self.mindset = "Consistent learner & problem solver"
-        self.motto   = "Code. Learn. Build. Repeat 🔥"
+### 🗄️ Databases
+- MySQL  
+- MongoDB  
+- PostgreSQL  
+
+### ⚙️ Tools
+- GitHub  
+- VS Code  
+- IntelliJ IDEA  
+- Postman  
+- Eclipse  
+- Canva  
+
+---
+
+## 🚀 Projects
+
+### 🔹 PredictLaw (ML + NLP)
+- Built a legal case outcome prediction system  
+- Used TF-IDF + Logistic Regression  
+- Tech: React, FastAPI, PostgreSQL  
+
+---
+
+### 🔹 CollabDoc (Real-time Editor)
+- Multi-user collaborative editor  
+- WebSockets + JWT authentication  
+- Tech: React, Spring Boot, MySQL  
+
+---
+
+### 🔹 ComfortIQ (IoT + MERN)
+- Smart system for monitoring environment data  
+- ESP32 integrated with cloud dashboard  
+- Tech: React, Node.js, MongoDB  
+
+---
+
+### 🔹 AgroLink (MERN)
+- Platform for farmers (crop, weather, market insights)  
+- Interactive and responsive UI  
+
+---
+
+## 📊 Coding Profiles
+
+- 🔹 LeetCode: 510+ Problems | Rating: 1535  
+- 🔹 HackerRank: ⭐⭐⭐⭐⭐ C | ⭐⭐ Python | SQL  
+- 🔹 CodeChef: 130+ Problems | Rating: 1310  
+- 🔹 SkillRack: 800+ Problems  
+
+---
+
+## 📜 Certifications
+
+- Java Programming – Udemy  
+- Data Structures & Algorithms – Udemy  
+- MongoDB – Infosys Springboard  
+- Red Hat Java EE (AD183)  
+- C Programming – Udemy  
+
+---
+
+## 🏆 Achievements
+
+- 🥇 5th Prize – CODE FIESTA  
+- 📄 Published Paper in IGI Global  
+  *“Utilizing Temperature Difference for Sustainable Maritime Transportation”*  
+
+---
+
+## 💼 Internship Experience
+
+### 🔹 MERN Stack Intern – Better Tomorrow (2025)
+- Built full-stack apps  
+- Deployed using Vercel & Render  
+- Worked with real-time data & AI workflows  
+
+### 🔹 CSIR Project (2024)
+- Air Quality Monitoring System  
+- PM sensor calibration  
+- Designed 8-relay control board  
+
+---
+
+## 📈 GitHub Stats
+
+![Sandhya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
+
+---
+
+## 🔥 Streak Stats
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=radical)
+
+---
+
+## 📊 Top Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical)
+
+---
+
+## 📅 Contribution Graph
+
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react-dark)
+
+---
+
+## 💡 Quote
+
+> “Code. Learn. Build. Repeat.” 🚀
+
+---
+
+⭐ *Feel free to check out my repositories and connect with me!*
