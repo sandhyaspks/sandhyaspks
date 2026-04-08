@@ -29,12 +29,10 @@ class Sandhya:
         self.role        = "Aspiring Software Engineer 🚀"
         self.degree      = "B.E Electronics & Communication Engineering"
         self.college     = "Sri Eshwar College of Engineering"
-        self.cgpa        = "8.35"
-        self.location    = "India 🇮🇳"
+       
 
         self.focus = [
             "Full Stack Development",
-            "Machine Learning",
             "Backend Systems",
             "Real-Time Applications"
         ]
@@ -49,8 +47,7 @@ class Sandhya:
         self.learning = [
             "DSA (Java)",
             "System Design",
-            "Backend Architecture",
-            "Machine Learning"
+            "Backend Architecture"
         ]
 
         self.mindset = "Consistent learner & problem solver"
