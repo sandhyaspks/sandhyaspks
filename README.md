@@ -55,38 +55,3 @@ class Sandhya:
 
         self.mindset = "Consistent learner & problem solver"
         self.motto   = "Code. Learn. Build. Repeat 🔥"
-<table> <tr> <td><b>Languages</b></td> <td> <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square"/> <img src="https://img.shields.io/badge/C-00599C?style=flat-square"/> <img src="https://img.shields.io/badge/SQL-003B57?style=flat-square"/> </td> </tr> <tr> <td><b>Full Stack</b></td> <td> <img src="https://img.shields.io/badge/React-20232A?style=flat-square"/> <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square"/> <img src="https://img.shields.io/badge/Express-000000?style=flat-square"/> <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square"/> <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square"/> </td> </tr> <tr> <td><b>Machine Learning</b></td> <td> <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square"/> <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square"/> <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square"/> <img src="https://img.shields.io/badge/NLP-TF--IDF-blue?style=flat-square"/> </td> </tr> <tr> <td><b>Tools</b></td> <td> <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square"/> <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square"/> <img src="https://img.shields.io/badge/IntelliJ-000000?style=flat-square"/> <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square"/> </td> </tr> </table>
-<table> <tr> <td width="50%"> <h3>⚖️ PredictLaw</h3>
-
-Machine learning system for legal case prediction
-
-<ul> <li>TF-IDF + Logistic Regression</li> <li>React + FastAPI integration</li> <li>Real-time prediction with confidence score</li> </ul>
-
-🔗 https://github.com/sandhyaspks/PredictLaw.git
-
-</td> <td width="50%"> <h3>📄 CollabDoc</h3>
-
-Real-time collaborative document editor
-
-<ul> <li>WebSockets + JWT authentication</li> <li>Multi-user editing</li> <li>Spring Boot + React</li> </ul>
-
-🔗 https://github.com/sandhyaspks/document-collab
-
-</td> </tr> <tr> <td width="50%"> <h3>🌡️ ComfortIQ</h3>
-
-IoT-based monitoring system
-
-<ul> <li>ESP32 sensor integration</li> <li>Real-time dashboard</li> <li>Air quality + humidity tracking</li> </ul>
-
-🔗 https://github.com/sandhyaspks/thermal-comfort-monitoring
-
-</td> <td width="50%"> <h3>🌾 AgroLink</h3>
-
-Farmer assistance platform
-
-<ul> <li>Crop recommendations</li> <li>Weather + market insights</li> <li>MERN stack application</li> </ul>
-
-🔗 https://github.com/sandhyaspks/agrolink_frontend.git
-
-</td> </tr> </table>
-<p align="center"> <img width="49%" src="https://github-readme-stats.vercel.app/api?username=sandhyaspks&show_icons=true&theme=tokyonight" /> <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=sandhyaspks&theme=tokyonight" /> </p> <p align="center"> <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sandhyaspks&theme=tokyonight&layout=compact" /> </p>
