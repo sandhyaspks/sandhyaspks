@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Building+real-world+projects+%F0%9F%9A%80;Frontend+%E2%86%92+Backend+%E2%86%92+ML+Integration;ECE+Student+%7C+Aspiring+Software+Engineer;Focused+on+DSA+%26+System+Design+%F0%9F%94%A5" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Building+real-world+projects+🚀;Frontend+→+Backend+→+ML+Integration;ECE+Student+%7C+Aspiring+Software+Engineer;Focused+on+DSA+%26+System+Design+🔥" />
 </p>
 
 <p align="center">
@@ -24,8 +24,34 @@
 
 ```python
 class Sandhya:
-    degree     = "B.E Electronics & Communication Engineering"
-    focus      = ["Full Stack Development", "Machine Learning", "Backend Systems"]
-    tech_stack = ["React", "Spring Boot", "Java", "Python", "MySQL"]
-    learning   = ["DSA (Java)", "System Design", "Backend Development"]
-    mindset    = "Consistent learner & problem solver"
+    def _init_(self):
+        self.name        = "Sandhya S"
+        self.role        = "Aspiring Software Engineer 🚀"
+        self.degree      = "B.E Electronics & Communication Engineering"
+        self.college     = "Sri Eshwar College of Engineering"
+        self.cgpa        = "8.35"
+        self.location    = "India 🇮🇳"
+
+        self.focus = [
+            "Full Stack Development",
+            "Machine Learning",
+            "Backend Systems",
+            "Real-Time Applications"
+        ]
+
+        self.tech_stack = {
+            "Languages": ["Java", "Python", "C"],
+            "Frontend": ["React", "HTML", "CSS", "JavaScript"],
+            "Backend": ["Node.js", "Express", "Spring Boot", "FastAPI"],
+            "Database": ["MySQL", "MongoDB", "PostgreSQL"]
+        }
+
+        self.learning = [
+            "DSA (Java)",
+            "System Design",
+            "Backend Architecture",
+            "Machine Learning"
+        ]
+
+        self.mindset = "Consistent learner & problem solver"
+        self.motto   = "Code. Learn. Build. Repeat 🔥"
