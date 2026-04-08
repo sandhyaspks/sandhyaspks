@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/sandhyas">
+  <a href="https://github.com/sandhyaspks">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/sandhya-s-8640452a6/">
