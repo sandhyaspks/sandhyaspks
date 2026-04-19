@@ -34,13 +34,12 @@ class Sandhya:
 
         self.focus = [
             "Full Stack Development",
-            "Machine Learning",
             "Backend Systems",
             "Real-Time Applications"
         ]
 
         self.tech_stack = {
-            "Languages": ["Java", "Python", "C"],
+            "Languages": ["Java"],
             "Frontend":  ["React", "HTML", "CSS", "JavaScript"],
             "Backend":   ["Node.js", "Express", "Spring Boot", "FastAPI"],
             "Database":  ["MySQL", "MongoDB", "PostgreSQL"]
@@ -49,8 +48,7 @@ class Sandhya:
         self.learning = [
             "DSA (Java)",
             "System Design",
-            "Backend Architecture",
-            "Machine Learning"
+            "Backend Architecture"
         ]
 
         self.mindset = "Consistent learner & problem solver"
